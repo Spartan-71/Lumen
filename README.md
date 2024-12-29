@@ -1,2 +1,2 @@
-# Perplexity-clone
-Perplexity Fine-Tuned Llama 3 / gemini-flash !
+# Lumen
+A Perplexity clone that runs locally.
